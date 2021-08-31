@@ -1,0 +1,5 @@
+Tim 30
+AAA 0
+AAA 0
+AbA 0
+AAb 0
